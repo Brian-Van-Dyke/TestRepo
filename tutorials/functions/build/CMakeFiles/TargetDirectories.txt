@@ -1,0 +1,3 @@
+C:/Users/brian.vandyke/projects/tutorials/functions/build/CMakeFiles/hello_world.dir
+C:/Users/brian.vandyke/projects/tutorials/functions/build/CMakeFiles/edit_cache.dir
+C:/Users/brian.vandyke/projects/tutorials/functions/build/CMakeFiles/rebuild_cache.dir

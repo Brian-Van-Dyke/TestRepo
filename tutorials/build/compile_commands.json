@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/brian.vandyke/projects/tutorials/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\hello_world.dir\\myfirstprogram.cpp.obj -c C:\\Users\\brian.vandyke\\projects\\tutorials\\myfirstprogram.cpp",
+  "file": "C:/Users/brian.vandyke/projects/tutorials/myfirstprogram.cpp",
+  "output": "CMakeFiles/hello_world.dir/myfirstprogram.cpp.obj"
+}
+]
